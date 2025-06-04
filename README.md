@@ -10,3 +10,7 @@ NOTAS: Destinada ao registro de entradas financeiras, como holerites ou extratos
 
 
 O projeto tem um foco em organização e documentação, para facilitar o preenchimento de declarações fiscais ou o acompanhamento de finanças pessoais. 
+
+Fonts utilizada:
+https://fonts.google.com/specimen/Poppins
+https://fonts.google.com/specimen/Montserrat
